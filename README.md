@@ -3,3 +3,5 @@ Rastreia e envia atualizações do seu pacote no seu Whatsapp, Agenda mensagens,
 
 
 npm i
+
+npm run start
